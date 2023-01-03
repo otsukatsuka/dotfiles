@@ -1,0 +1,19 @@
+### all ignore ###
+/*
+/.**
+
+### not ignore ###
+
+!/.zshrc
+!/.zshenv
+!/.config/
+!/.config/nvim/
+!/.config/nvim/dein.toml
+!/.config/nvim/dein_lazy.toml
+!/.config/nvim/init.vim
+!/.config/nvim/settings/coc-vim.vim
+!/.config/nvim/nvim-treesitter.lua
+!/.config/nvim/coc-settings.json
+
+!/README.md
+!/.gitignore
